@@ -1,0 +1,1 @@
+# QuadSync-Template
